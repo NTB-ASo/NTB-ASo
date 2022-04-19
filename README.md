@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NTB-ASo
-- 👀 I’m interested in JAVA, C, IBM MQ, VMS
+- 👀 I’m interested in JAVA, C, IBM MQ, LINUX, VMS
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
